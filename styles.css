@@ -1,6 +1,7 @@
 body {
   background-color: black;
 }
-h1.t1 {
+p.txt {
   color: white;
+  font-size: 40px;
 }
