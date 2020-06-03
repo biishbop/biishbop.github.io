@@ -4,5 +4,5 @@ body {
 p.txt {
   color: white;
   font-size: 40px;
-  vertical-align: middle;
+  text-align: center;
 }
