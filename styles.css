@@ -7,3 +7,6 @@ p.txt {
   text-align: center;
   font-family: 'Raleway', sans-serif;
 }
+img.top_logo {
+  left: 50%;
+}
