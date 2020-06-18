@@ -40,3 +40,13 @@ body {
   left: 120px;
   top: 90px;
 }
+.article{
+  margin-left: 25px;
+  margin-right: 25px;
+  width: 500px;
+  height: 225px;
+  object-fit: cover;
+}
+.row{
+  text-align: center;
+}
